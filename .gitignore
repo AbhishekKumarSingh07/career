@@ -1,0 +1,4 @@
+/dsa/__pycache__
+*.pyc
+/dsa/dsa.egg-info
+/venv
